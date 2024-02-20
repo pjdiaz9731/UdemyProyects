@@ -8,7 +8,7 @@ package com.mycompany.ejercicio9;
  *
  * @author pjdiaz
  */
-public class Ejercicio9 {
+public class Ejercicio10 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
