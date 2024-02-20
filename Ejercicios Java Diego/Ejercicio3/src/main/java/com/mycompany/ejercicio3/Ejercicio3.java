@@ -12,19 +12,24 @@ public class Ejercicio3 {
     public static void main(String[] args) {
 
         int cantPiezas = 0;
-        double totalpago = 0;
+        double totalPago = 0; // Mejora el nombre de la variable por convención camelCase.
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Ingrese la cantidad de piezas de pan a comprar");
         cantPiezas = scanner.nextInt();
+
+        // Condicionales para calcular el total a pagar según la cantidad de piezas.
         if (cantPiezas >= 50 && cantPiezas < 100) {
-            totalpago = cantPiezas * 4.5;
+            totalPago = cantPiezas * 4.5;
         } else if (cantPiezas >= 100) {
-            totalpago = cantPiezas * 4;
+            totalPago = cantPiezas * 4;
         } else {
-            totalpago = cantPiezas * 5;
+            totalPago = cantPiezas * 5;
         }
+
+        // Muestra la cantidad de piezas compradas y el total a pagar.
         System.out.println("El cliente compró " + cantPiezas + " piezas de pan");
-        System.out.println("El total a pagar es: " + totalpago);
+        System.out.println("El total a pagar es: " + totalPago);
 
     }
 }

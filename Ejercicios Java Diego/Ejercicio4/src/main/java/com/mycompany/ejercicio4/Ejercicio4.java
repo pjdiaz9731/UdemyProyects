@@ -13,11 +13,15 @@ public class Ejercicio4 {
 
         int num = 0, suma = 0;
         Scanner sc = new Scanner(System.in);
+
+        // Bucle do-while para ingresar números hasta que se ingrese un 0.
         do {
             System.out.println("Introduce un número");
             num = sc.nextInt();
             suma = suma + num;
         } while (num != 0);
+
+        // Muestra la suma de todos los números ingresados.
         System.out.println("La suma de todos los números es: " + suma);
     }
 }
