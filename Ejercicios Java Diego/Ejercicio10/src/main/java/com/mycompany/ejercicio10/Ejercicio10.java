@@ -6,6 +6,11 @@ package com.mycompany.ejercicio10;
 
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Diego
+ */
+
 public class Ejercicio10 {
 
     public static void main(String[] args) {
