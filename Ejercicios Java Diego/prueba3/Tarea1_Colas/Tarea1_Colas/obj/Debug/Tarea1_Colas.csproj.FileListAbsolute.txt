@@ -1,0 +1,7 @@
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Tarea1_Colas\Tarea1_Colas\bin\Debug\Tarea1_Colas.exe.config
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Tarea1_Colas\Tarea1_Colas\bin\Debug\Tarea1_Colas.exe
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Tarea1_Colas\Tarea1_Colas\bin\Debug\Tarea1_Colas.pdb
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Tarea1_Colas\Tarea1_Colas\obj\Debug\Tarea1_Colas.csproj.AssemblyReference.cache
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Tarea1_Colas\Tarea1_Colas\obj\Debug\Tarea1_Colas.csproj.CoreCompileInputs.cache
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Tarea1_Colas\Tarea1_Colas\obj\Debug\Tarea1_Colas.exe
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Tarea1_Colas\Tarea1_Colas\obj\Debug\Tarea1_Colas.pdb
