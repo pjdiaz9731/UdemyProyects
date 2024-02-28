@@ -7,6 +7,11 @@ package com.mycompany.ejercicio7;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Diego
+ */
+
 public class Ejercicio7 {
 
     public static void main(String[] args) {

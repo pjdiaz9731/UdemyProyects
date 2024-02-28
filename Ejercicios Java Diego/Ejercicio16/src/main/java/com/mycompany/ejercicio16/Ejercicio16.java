@@ -6,6 +6,11 @@ package com.mycompany.ejercicio16;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Diego
+ */
+
 public class Ejercicio16 {
 
     public static void main(String[] args) {
