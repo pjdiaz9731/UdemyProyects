@@ -9,14 +9,16 @@ package com.mycompany.ejercicio21;
  * @author pjdiaz
  */
 public class NumeroMenor {
-  public static int NumeroMenor (int t []) {  
+
+    static int numeroMenor(int t[]) {
         int menor;
-   menor= t[0];
-        for (int i = 0; i < t.length; i++) {
-             if (t[i]<menor)menor=t[1];   
+        menor = t[0];
+        for (int i = 0; i < t.length; i++) 
+        {
+            if (t[i] < menor) menor = t[1]; 
+              
             }
-            return menor;
-        }
+        return menor;
     }
-
-
+}
+        
