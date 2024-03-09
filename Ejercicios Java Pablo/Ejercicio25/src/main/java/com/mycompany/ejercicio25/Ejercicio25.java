@@ -36,6 +36,9 @@ public class Ejercicio25 {
             
         }
         System.out.println("\n");
+        for (int j = 0; j < matriz.length; j++) {
+            
+        }
         }
     
     
