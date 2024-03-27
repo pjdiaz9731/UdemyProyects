@@ -1,23 +1,23 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
 package com.mycompany.ejercicio32;
 
 import java.util.Scanner;
 
-
 public class Ejercicio32 {
 
     static int maximo(int a, int b) {
-        int max = 0;
-        if (a > b);
-        max = a;
-        else
-       max=b;
-       
-        return (max);
+        int max;
+        if (a > b) {
+            max = a;
+        } else {
+            max = b;
+        }
+        return max;
     }
+
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -31,4 +31,3 @@ public class Ejercicio32 {
         System.out.println("El numero maximo es: " + maximo(a, b));
     }
 }
-
