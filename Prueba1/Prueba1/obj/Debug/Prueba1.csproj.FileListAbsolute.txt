@@ -1,0 +1,14 @@
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.cache
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\bin\Debug\ReaLTaiizor.dll
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\bin\Debug\ReaLTaiizor.xml
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.Up2Date
+C:\Users\dcamp\OneDrive\Documentos\Visual Studio 2022\Prueba1\Prueba1\obj\Debug\Prueba1.FormularioCursos.resources
