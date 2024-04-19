@@ -1,6 +1,6 @@
 ﻿namespace Prueba1
 {
-    partial class FormularioCursos
+    partial class FormCursos
     {
         /// <summary>
         /// Required designer variable.

@@ -51,25 +51,52 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FormEstudiantes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FormEstudiantes.Designer.cs">
+      <DependentUpon>FormEstudiantes.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormularioCursos.cs">
+    <Compile Include="FormFacultad.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormularioCursos.Designer.cs">
-      <DependentUpon>FormularioCursos.cs</DependentUpon>
+    <Compile Include="FormFacultad.Designer.cs">
+      <DependentUpon>FormFacultad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCursos.Designer.cs">
+      <DependentUpon>FormCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfes.Designer.cs">
+      <DependentUpon>FormProfes.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FormEstudiantes.resx">
+      <DependentUpon>FormEstudiantes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormularioCursos.resx">
-      <DependentUpon>FormularioCursos.cs</DependentUpon>
+    <EmbeddedResource Include="FormFacultad.resx">
+      <DependentUpon>FormFacultad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCursos.resx">
+      <DependentUpon>FormCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfes.resx">
+      <DependentUpon>FormProfes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
