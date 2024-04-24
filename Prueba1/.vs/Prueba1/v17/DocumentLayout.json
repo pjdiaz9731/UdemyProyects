@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\prueba1\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|solutionrelative:prueba1\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|c:\\users\\dcamp\\onedrive\\documentos\\git\\udemyproyects\\prueba1\\prueba1\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|solutionrelative:prueba1\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|c:\\users\\dcamp\\onedrive\\documentos\\git\\udemyproyects\\prueba1\\prueba1\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|solutionrelative:prueba1\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|c:\\users\\dcamp\\onedrive\\documentos\\git\\udemyproyects\\prueba1\\prueba1\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7FAED2-7B67-4F2B-9034-A361A8E8763F}|Prueba1\\Prueba1.csproj|solutionrelative:prueba1\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,19 +25,6 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\Prueba1\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "Prueba1\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\Prueba1\\FormPrincipal.cs",
-              "RelativeToolTip": "Prueba1\\FormPrincipal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T17:34:50.764Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -43,7 +34,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\Prueba1\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Prueba1\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\Prueba1\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "Prueba1\\FormPrincipal.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:01:53.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\Prueba1\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Prueba1\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\Prueba1\\FormPrincipal.cs",
+              "RelativeToolTip": "Prueba1\\FormPrincipal.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:34:50.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dcamp\\OneDrive\\Documentos\\Git\\UdemyProyects\\Prueba1\\Prueba1\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "Prueba1\\FormPrincipal.cs",

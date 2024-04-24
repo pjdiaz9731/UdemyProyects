@@ -18,6 +18,21 @@ namespace Prueba1
         {
             InitializeComponent();
             personalizarDiseño(); // Personalizar la apariencia de los controles
+            personalizarNightControlBox();
+        }
+        
+        // Nuevo método para personalizar el NightControlBox
+        private void personalizarNightControlBox()
+        {
+            // Cambiar el color de los íconos del NightControlBox
+            nightControlBox1.CloseHoverColor = Color.Red; // Rojo al pasar el ratón sobre el ícono de cerrar
+            nightControlBox1.EnableCloseColor = Color.DarkRed; // Rojo oscuro para el estado normal del ícono de cerrar
+
+            nightControlBox1.MaximizeHoverColor = Color.Green; // Verde al pasar el ratón sobre el ícono de maximizar
+            nightControlBox1.EnableMaximizeColor = Color.DarkGreen; // Verde oscuro para el estado normal del ícono de maximizar
+
+            nightControlBox1.MinimizeHoverColor = Color.Blue; // Azul al pasar el ratón sobre el ícono de minimizar
+            nightControlBox1.EnableMinimizeColor = Color.DarkBlue; // Azul oscuro para el estado normal del ícono de minimizar
         }
 
         // Método para personalizar la apariencia de los controles
